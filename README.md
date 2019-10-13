@@ -1,5 +1,6 @@
 # VOIP
 Encrypted VOIP using hybrid cryptosystem, node.js and react.js
+Highly secure as only public key is stored on server and keys are generated new everytime user opens the profile.
 # installation
 1. install mongodb.
 2. install node.js.

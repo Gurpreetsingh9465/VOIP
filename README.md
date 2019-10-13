@@ -13,7 +13,7 @@ Encrypted VOIP using hybrid cryptosystem, node.js and react.js
 10. copy both private key and crt to server folder
 11. Change API and Client url on file
 	`/client/.env`
-	'/server/.end`
+	`/server/.end`
 	`/client/package.json` (change proxy)
 12. `cd server && npm start`
 13. `cd client && npm start`
